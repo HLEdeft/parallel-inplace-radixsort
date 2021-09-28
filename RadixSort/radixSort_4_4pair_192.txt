@@ -1,0 +1,70 @@
+the size of uintT is 4
+runing test of uniform input with line 4
+0.427474
+0.428967
+0.429726
+0.472949
+0.458011
+the size of uintT is 4
+runing test of uniform input with line 5
+0.48763
+0.462727
+0.463305
+0.461232
+0.453873
+the size of uintT is 4
+runing test of uniform input with line 6
+0.659623
+0.619807
+0.623532
+0.623793
+0.606523
+the size of uintT is 4
+runing test of uniform input with line 7
+0.685384
+0.672545
+0.628979
+0.638964
+0.620553
+the size of uintT is 4
+runing test of uniform input with line 8
+0.850762
+0.654645
+0.653281
+0.65156
+0.648717
+the size of uintT is 4
+runing test of uniform input with line 9
+0.694832
+0.688166
+0.662547
+0.65514
+0.64724
+the size of uintT is 4
+runing test of uniform input with line 10
+0.726708
+0.640307
+0.695302
+0.630576
+0.634749
+the size of uintT is 4
+runing test of uniform input with line 11
+0.716292
+0.658138
+0.637232
+0.641542
+0.650829
+the size of uintT is 4
+the size of uintT is 8
+runing test of uniform input with line 4
+1.26934
+1.26981
+1.29128
+1.26906
+1.26239
+the size of uintT is 8
+runing test of uniform input with line 5
+1.44322
+1.43426
+1.31393
+1.29706

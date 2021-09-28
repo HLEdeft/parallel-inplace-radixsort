@@ -26,7 +26,7 @@ endif
 
 CFLAGS += $(OTHER_CFLAGS)
 
-LDFLAGS= -Wall -lm -lrt -ldl -flto -lpthread 
+LDFLAGS= -Wall -lm -lrt -ldl -flto -lpthread
 ifeq ($(PROFILE),1)
 	CFLAGS += -DPROFILE
 	LDFLAGS += -lprofiler
@@ -39,13 +39,13 @@ COMMON = common_sort.h regionsSort.h parallel.h prefixsum.h radix_configs.h sequ
 
 
 
-default : radixSort radixSort_cycle 
+default : radixSort
 
 radixSort : $(COMMON)
-	g++ -I. -std=c++14 example.cpp -DCILKP -DBITS_HACK -O3 -flto -march=native -fcilkplus -lcilkrts -o radixSort
+	g++ -I. -std=c++14 example.cpp -DCILKP -DBITS_HACK -DLONG -O3 -flto -march=native -fcilkplus -lcilkrts -o radixSort
 
 radixSort_cycle : $(COMMON)
-	g++ -I. -std=c++14 example.cpp -DCILKP -DCYCLE -DBITS_HACK -O3 -flto -march=native -fcilkplus -lcilkrts -o radixSort_cycle
+	g++ -I. -std=c++14 example.cpp -DLONG -DCILKP -DCYCLE -DBITS_HACK -O3 -flto -march=native -fcilkplus -lcilkrts -o radixSort_cycle
 
 # Each C source file will have a corresponding file of prerequisites.
 # Include the prerequisites for each of our C source files.
@@ -68,7 +68,7 @@ simple : simple.o $(OBJ)
 	$(CC) $^ $(LDFLAGS) -o $@ -lrt
 
 clean :
-	rm -f *.o *.d* *~ $(TARGET) radixSort radixSort_cycle  
+	rm -f *.o *.d* *~ $(TARGET) radixSort radixSort_cycle
 
 
 

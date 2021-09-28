@@ -1,0 +1,482 @@
+the size of uintT is 8
+runing test of uniform input with line 4
+2.40553
+2.24562
+2.31719
+2.22408
+2.20063
+the size of uintT is 8
+runing test of uniform input with line 5
+2.44046
+2.12506
+2.51734
+2.40195
+2.11371
+the size of uintT is 8
+runing test of uniform input with line 6
+2.4557
+2.28576
+2.24212
+2.38441
+2.48572
+the size of uintT is 8
+runing test of uniform input with line 7
+2.54415
+2.35605
+2.30968
+2.33867
+2.14861
+the size of uintT is 8
+runing test of uniform input with line 8
+2.32914
+2.47836
+2.40955
+2.42163
+2.55328
+the size of uintT is 8
+runing test of uniform input with line 9
+2.3518
+2.26561
+2.3627
+2.56309
+2.65505
+the size of uintT is 8
+runing test of uniform input with line 10
+2.83902
+2.38127
+2.31689
+2.2572
+2.21346
+the size of uintT is 8
+runing test of uniform input with line 11
+2.30652
+2.27398
+2.28101
+2.27547
+2.4399
+the size of uintT is 8
+runing test of uniform input with line 12
+2.09917
+2.15317
+1.90136
+2.2151
+1.94179
+the size of uintT is 8
+runing test of uniform input with line 13
+2.06112
+2.11684
+1.94762
+1.84644
+1.79727
+the size of uintT is 8
+runing test of uniform input with line 14
+2.26854
+2.03862
+2.07657
+1.86884
+2.09218
+the size of uintT is 8
+runing test of uniform input with line 15
+2.27701
+2.07519
+1.93984
+2.08081
+2.41203
+the size of uintT is 8
+runing test of uniform input with line 16
+2.25879
+2.1833
+2.09041
+2.07728
+2.35895
+the size of uintT is 8
+runing test of uniform input with line 17
+1.99595
+1.98438
+1.90199
+1.83116
+2.15001
+the size of uintT is 8
+runing test of uniform input with line 18
+2.04524
+1.94364
+1.89804
+1.86957
+1.86562
+the size of uintT is 8
+running test with input file /data/zwang358/semisort/graph/com-orkut.txt
+0.49547
+array is sorted!
+0.177567
+array is sorted!
+0.170193
+array is sorted!
+0.161307
+array is sorted!
+0.179136
+array is sorted!
+the size of uintT is 8
+running test with input file /data/zwang358/semisort/graph/twitter.txt
+3.10097
+array is sorted!
+3.06311
+array is sorted!
+2.85608
+array is sorted!
+2.88838
+array is sorted!
+2.97353
+array is sorted!
+the size of uintT is 8
+running test with input file /data/zwang358/semisort/graph/yahoo_g9.txt
+1.62415
+array is sorted!
+1.53418
+array is sorted!
+1.52097
+array is sorted!
+1.53214
+array is sorted!
+1.47296
+array is sorted!
+the size of uintT is 8
+running test with input file /data/zwang358/semisort/graph/sd_arc.txt
+4.64949
+array is sorted!
+4.37283
+array is sorted!
+4.45974
+array is sorted!
+4.5733
+array is sorted!
+4.42952
+array is sorted!
+the size of uintT is 8
+running test with input file /data/zwang358/semisort/graph/enwiki.txt
+0.191015
+array is sorted!
+0.147641
+array is sorted!
+0.15765
+array is sorted!
+0.148188
+array is sorted!
+0.143826
+array is sorted!
+the size of uintT is 8
+running test with input file /data/zwang358/semisort/graph/webbase2001.txt
+1.48103
+array is sorted!
+1.31852
+array is sorted!
+1.28716
+array is sorted!
+1.21906
+array is sorted!
+1.2083
+array is sorted!
+the size of uintT is 8
+running test with input file /data/zwang358/semisort/graph/uk2002.txt
+0.411162
+array is sorted!
+0.361472
+array is sorted!
+0.33906
+array is sorted!
+0.346686
+array is sorted!
+0.354037
+array is sorted!
+
+
+
+the size of uintT is 4
+runing test of uniform input with line 4
+0.438696
+0.454983
+0.430939
+0.440307
+0.43406
+the size of uintT is 4
+runing test of uniform input with line 5
+0.487249
+0.462238
+0.526112
+0.477728
+0.465093
+the size of uintT is 4
+runing test of uniform input with line 6
+0.669382
+0.648515
+0.616898
+0.628213
+0.605615
+the size of uintT is 4
+runing test of uniform input with line 7
+0.686288
+0.650051
+0.640772
+0.652156
+0.653317
+the size of uintT is 4
+runing test of uniform input with line 8
+0.689163
+0.649159
+0.676598
+0.649871
+0.662326
+the size of uintT is 4
+runing test of uniform input with line 9
+0.68982
+0.652689
+0.655983
+0.674724
+0.709991
+the size of uintT is 4
+runing test of uniform input with line 10
+0.687178
+0.637544
+0.625581
+0.635229
+0.629431
+the size of uintT is 4
+runing test of uniform input with line 11
+0.689133
+0.695998
+0.66567
+0.652366
+0.663461
+the size of uintT is 4
+runing test of uniform input with line 12
+0.706161
+0.650124
+0.649793
+0.646642
+0.643296
+the size of uintT is 4
+runing test of uniform input with line 13
+0.751084
+0.703418
+0.677169
+0.670952
+0.682317
+the size of uintT is 4
+runing test of uniform input with line 14
+0.76549
+0.709223
+0.723923
+0.720688
+0.705331
+the size of uintT is 4
+runing test of uniform input with line 15
+0.784066
+0.737019
+0.722358
+0.731197
+0.749348
+the size of uintT is 4
+runing test of uniform input with line 16
+0.783168
+0.723548
+0.735311
+0.736076
+0.718431
+the size of uintT is 4
+runing test of uniform input with line 17
+0.789733
+0.765113
+0.775427
+0.749442
+0.730092
+the size of uintT is 4
+runing test of uniform input with line 18
+0.776099
+0.742683
+0.724252
+0.740963
+0.729292
+the size of uintT is 4
+running test with input file /data/zwang358/semisort/graph/com-orkut.txt
+0.135712
+array is sorted!
+0.0991609
+array is sorted!
+0.100124
+array is sorted!
+0.088444
+array is sorted!
+0.097739
+array is sorted!
+the size of uintT is 4
+the size of uintT is 4
+runing test of uniform input with line 4
+0.468331
+0.440464
+0.449666
+0.462255
+0.445955
+the size of uintT is 4
+runing test of uniform input with line 5
+0.478927
+0.475908
+0.435688
+0.445902
+0.451153
+the size of uintT is 4
+runing test of uniform input with line 6
+0.660273
+0.62259
+0.624348
+
+
+Threads = 72
+
+the size of uintT is 4
+runing test of uniform input with line 4
+0.908021
+0.691632
+0.581381
+0.560528
+0.617962
+the size of uintT is 4
+runing test of uniform input with line 5
+0.868549
+0.62
+0.618426
+0.611018
+0.606813
+the size of uintT is 4
+runing test of uniform input with line 6
+0.860432
+0.731861
+0.738369
+0.739839
+0.735088
+the size of uintT is 4
+runing test of uniform input with line 7
+0.975266
+0.811106
+0.786647
+0.777712
+0.769325
+the size of uintT is 4
+runing test of uniform input with line 8
+0.938388
+0.763715
+0.755087
+0.756034
+0.754748
+the size of uintT is 4
+runing test of uniform input with line 9
+1.04205
+0.794291
+0.785302
+0.772398
+0.778775
+the size of uintT is 4
+runing test of uniform input with line 10
+0.974232
+0.842441
+0.78394
+0.778379
+0.767904
+the size of uintT is 4
+runing test of uniform input with line 11
+0.908291
+0.758143
+0.755628
+0.748623
+0.758776
+the size of uintT is 4
+runing test of uniform input with line 12
+0.889053
+0.812162
+0.782877
+0.760266
+0.770194
+the size of uintT is 4
+runing test of uniform input with line 13
+0.997533
+0.816447
+0.815935
+0.811962
+0.815468
+the size of uintT is 4
+runing test of uniform input with line 14
+1.02006
+0.862144
+0.865863
+0.883345
+0.924619
+the size of uintT is 4
+
+
+
+
+
+Threads = 192
+the size of uintT is 4
+runing test of uniform input with line 4
+0.454558
+0.459501
+0.45945
+0.428254
+0.429922
+the size of uintT is 4
+runing test of uniform input with line 5
+0.488351
+0.447473
+0.478328
+0.455599
+0.449408
+the size of uintT is 4
+runing test of uniform input with line 6
+0.656365
+0.614585
+0.603548
+0.62006
+0.604844
+the size of uintT is 4
+runing test of uniform input with line 7
+0.696971
+0.64217
+0.675225
+0.650661
+0.630198
+the size of uintT is 4
+runing test of uniform input with line 8
+0.701317
+0.674456
+0.649053
+0.677133
+0.637685
+the size of uintT is 4
+runing test of uniform input with line 9
+0.697222
+0.654364
+0.657272
+0.64212
+0.661839
+the size of uintT is 4
+runing test of uniform input with line 10
+0.677368
+0.657011
+0.667935
+0.644516
+0.630242
+the size of uintT is 4
+runing test of uniform input with line 11
+0.694095
+0.647513
+0.647876
+0.648368
+0.642643
+the size of uintT is 4
+runing test of uniform input with line 12
+0.703363
+0.678251
+0.641326
+0.652406
+0.659033
+the size of uintT is 4
+the size of uintT is 4

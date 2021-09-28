@@ -1,0 +1,283 @@
+the size of uintT is 8
+runing test of uniform input with line 4
+1.26793
+1.28275
+1.29147
+1.31325
+1.25859
+the size of uintT is 8
+runing test of uniform input with line 5
+1.34617
+1.42507
+1.47913
+1.50747
+1.46189
+the size of uintT is 8
+runing test of uniform input with line 6
+1.62802
+1.58221
+1.57095
+1.58195
+1.52468
+the size of uintT is 8
+runing test of uniform input with line 7
+1.71253
+1.55476
+1.59467
+1.56516
+1.60883
+the size of uintT is 8
+runing test of uniform input with line 8
+1.7389
+1.70755
+1.59202
+1.59086
+1.62612
+the size of uintT is 8
+runing test of uniform input with line 9
+1.66134
+1.63292
+1.62588
+1.5967
+1.58524
+the size of uintT is 8
+runing test of uniform input with line 10
+1.66439
+1.65001
+1.67389
+1.70457
+1.61531
+the size of uintT is 8
+runing test of uniform input with line 11
+1.70001
+1.64618
+1.70794
+1.59738
+1.59613
+the size of uintT is 8
+runing test of uniform input with line 12
+1.54193
+1.56319
+1.44234
+1.43979
+1.48967
+the size of uintT is 8
+runing test of uniform input with line 13
+1.41464
+1.34768
+1.33688
+1.40381
+1.3326
+the size of uintT is 8
+runing test of uniform input with line 14
+1.45974
+1.49446
+1.37361
+1.41135
+1.37644
+the size of uintT is 8
+runing test of uniform input with line 15
+1.54367
+1.45816
+1.38154
+1.38444
+1.44445
+the size of uintT is 8
+runing test of uniform input with line 16
+1.74316
+1.70168
+1.66069
+1.69512
+1.66852
+the size of uintT is 8
+runing test of uniform input with line 17
+1.48671
+1.39005
+1.49044
+1.39148
+1.39802
+the size of uintT is 8
+runing test of uniform input with line 18
+1.45472
+1.41816
+1.38571
+1.36462
+1.54466
+the size of uintT is 8
+running test with input file /data/zwang358/semisort/graph/com-orkut.txt
+0.212634
+0.169236
+0.188732
+0.155868
+0.157374
+the size of uintT is 8
+running test with input file /data/zwang358/semisort/graph/twitter.txt
+2.25516
+2.12363
+2.12625
+2.11423
+2.08026
+the size of uintT is 8
+running test with input file /data/zwang358/semisort/graph/yahoo_g9.txt
+1.65205
+1.47377
+1.55353
+1.5035
+1.50542
+the size of uintT is 8
+running test with input file /data/zwang358/semisort/graph/sd_arc.txt
+2.97342
+2.93017
+2.93194
+2.90345
+2.91559
+the size of uintT is 8
+running test with input file /data/zwang358/semisort/graph/enwiki.txt
+0.355783
+0.179118
+0.148246
+0.14738
+0.144181
+the size of uintT is 8
+running test with input file /data/zwang358/semisort/graph/webbase2001.txt
+1.43059
+1.2566
+1.25764
+1.27095
+1.34262
+the size of uintT is 8
+running test with input file /data/zwang358/semisort/graph/uk2002.txt
+0.40315
+0.362322
+0.339477
+0.341978
+0.334453
+
+
+
+
+
+runing test of zipfan input with line 30
+1.72088
+1.65254
+1.63362
+1.68833
+1.69942
+the size of uintT is 8
+sum of nums[] == n
+runing test of zipfan input with line 31
+1.72148
+1.63121
+1.61849
+1.758
+1.61388
+the size of uintT is 8
+sum of nums[] == n
+runing test of zipfan input with line 32
+1.85895
+1.61275
+1.60631
+1.61733
+1.60785
+the size of uintT is 8
+sum of nums[] == n
+runing test of zipfan input with line 33
+1.70465
+1.65446
+1.58782
+1.59322
+1.6382
+the size of uintT is 8
+sum of nums[] == n
+runing test of zipfan input with line 34
+1.67438
+1.61655
+1.61926
+1.59072
+1.6509
+the size of uintT is 8
+
+
+the size of uintT is 8
+sum of nums[] == n
+runing test of exponetial input with line 21
+1.34324
+1.31631
+1.3339
+1.41395
+1.37926
+the size of uintT is 8
+sum of nums[] == n
+runing test of exponetial input with line 22
+1.65182
+1.58734
+1.57304
+1.6409
+1.60918
+the size of uintT is 8
+sum of nums[] == n
+runing test of exponetial input with line 23
+1.63213
+1.61906
+1.621
+1.61181
+1.61733
+the size of uintT is 8
+sum of nums[] == n
+runing test of exponetial input with line 24
+1.69331
+1.57766
+1.56463
+1.54869
+1.60089
+the size of uintT is 8
+sum of nums[] == n
+runing test of exponetial input with line 25
+1.64181
+1.74157
+1.65058
+1.57352
+1.53022
+the size of uintT is 8
+sum of nums[] == n
+runing test of exponetial input with line 26
+1.66704
+1.56629
+1.52675
+1.59419
+1.59537
+the size of uintT is 8
+sum of nums[] == n
+runing test of exponetial input with line 27
+1.54286
+1.44209
+1.43152
+1.54522
+1.42627
+the size of uintT is 8
+the size of uintT is 8
+the size of uintT is 8
+runing test of zipfan input with line 35
+0.0867331
+array is sorted!
+0.0827959
+array is sorted!
+0.081928
+array is sorted!
+0.081969
+array is sorted!
+0.081619
+array is sorted!
+the size of uintT is 8
+sum of nums[] == n
+runing test of zipfan input with line 34
+1.67176
+array is sorted!
+1.73837
+array is sorted!
+1.59707
+array is sorted!
+1.63192
+array is sorted!
+1.60796
+array is sorted!
